@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>HELLO WORLD OF DEVOPS!</h2>
+<h2>welocme to devops automation by srni</h2>
 </body>
 </html>
